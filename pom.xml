@@ -216,5 +216,8 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
-
+<properties>
+  <maven.compiler.source>17</maven.compiler.source>
+  <maven.compiler.target>17</maven.compiler.target>
+</properties>
 </project>
